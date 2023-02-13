@@ -1,0 +1,4 @@
+#Tue Feb 07 15:10:11 CST 2023
+configuration*?=A9B8AE8E6FB8638ED7C803B121BA5AE12F422892
+module-resource*?\:file\:/Users/zhujiachuan/server/hudi-0.12.2/style/import-control.xml=2226931B46F50208FC10522CAE02C8E3E961695C
+module-resource*?\:/Users/zhujiachuan/server/hudi-0.12.2/target/checkstyle-suppressions.xml=B6D3B975006F224BC52EA8E6D565995BAF8988AC
